@@ -10,7 +10,7 @@ You need to install CFW on your 3DS
 # Usage
 - Go to the Wi-Fi square
 - Talk to the Gold Slime, ask to input a present code
-- Press Select to open the plugin and choose the code to input
+- Press Select to open the plugin and choose the code to input, press Select again to close the plugin
 - Choose Confirm to recieve the rewards
 
 # Notes
